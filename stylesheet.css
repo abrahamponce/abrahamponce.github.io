@@ -37,6 +37,7 @@ p {
     content: "";
     display: table;
     width: 100%;
+    height: auto;
 }
 
 #gallery .gallery-container .gallery-image-1 {
@@ -49,6 +50,7 @@ p {
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
+    text-align: center;
 }
 
 #gallery .gallery-container .gallery-image-2 {
@@ -61,6 +63,7 @@ p {
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
+    text-align: center;
 }
 
 #gallery .gallery-container .gallery-image-3 {
@@ -73,6 +76,7 @@ p {
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
+    text-align: center;
 }
 
 #gallery .gallery-container .gallery-image-4 {
@@ -85,6 +89,7 @@ p {
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
+    text-align: center;
 }
 
 /*
