@@ -44,6 +44,7 @@ p {
     display: block;
     position: relative;
     width: 25%;
+    height: 100%;
     float: left;
     background-image: url(/img/caras.jpg);
     background-position: center center;
@@ -57,6 +58,7 @@ p {
     display: block;
     position: relative;
     width: 25%;
+    height: 100%;
     float: left;
     background-image: url(/img/cascada.jpg);
     background-position: center center;
@@ -70,6 +72,7 @@ p {
     display: block;
     position: relative;
     width: 25%;
+    height: 100%;
     float: left;
     background-image: url(/img/indigena.jpg);
     background-position: center center;
@@ -83,6 +86,7 @@ p {
     display: block;
     position: relative;
     width: 25%;
+    height: 100%;
     float: left;
     background-image: url(/img/nino.jpg);
     background-position: center center;
