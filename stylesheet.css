@@ -12,8 +12,6 @@
 
     width: 100vw;
     height: 100vh;
-
-
 }
 
 h1 {
@@ -26,3 +24,65 @@ p {
     color: white;
 }
 
+.gallery {
+    background: red;
+    margin: 0 auto;
+    padding-bottom: 0px;
+    clear: both;
+    content: "";
+    display: table;
+}
+
+#gallery .gallery-image-1 {
+    display: block;
+    position: relative;
+    width: 25%;
+    float: left;
+    background-image: url(/img/caras.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+#gallery .gallery-image-2 {
+    display: block;
+    position: relative;
+    width: 25%;
+    float: left;
+    background-image: url(/img/cascada.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+#gallery .gallery-image-3 {
+    display: block;
+    position: relative;
+    width: 25%;
+    float: left;
+    background-image: url(/img/indigena.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+#gallery .gallery-image-4 {
+    display: block;
+    position: relative;
+    width: 25%;
+    float: left;
+    background-image: url(/img/nino.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+/*
+
+padding-top: 12.5%
+
+*/
