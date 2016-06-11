@@ -36,6 +36,7 @@ p {
     clear: both;
     content: "";
     display: table;
+    width: 100%;
 }
 
 #gallery .gallery-container .gallery-image-1 {
