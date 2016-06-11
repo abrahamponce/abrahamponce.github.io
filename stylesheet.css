@@ -17,17 +17,20 @@
 }
 
 h1 {
-    padding: 0px;
+    font-family: Georgia, Serif;
+    padding-top: 10px;
     text-align: center;
     color: white;
 }
 
 p {
+    font-family: Georgia, Serif;
     text-align: center;
     color: white;
 }
 
 #gallery {
+    padding: 0px;
     background: lightgray;
 }
 
