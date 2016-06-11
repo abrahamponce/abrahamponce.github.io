@@ -37,7 +37,7 @@ p {
     content: "";
     display: table;
     width: 100%;
-    height: auto;
+    height: 500px;
 }
 
 #gallery .gallery-container .gallery-image-1 {
