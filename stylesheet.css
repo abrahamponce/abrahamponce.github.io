@@ -12,6 +12,8 @@
 
     width: 100vw;
     height: 100vh;
+    
+    padding: 0px;
 }
 
 h1 {
@@ -26,7 +28,7 @@ p {
 }
 
 #gallery {
-    background: red;
+    background: lightgray;
 }
 
 #gallery .gallery-container {
